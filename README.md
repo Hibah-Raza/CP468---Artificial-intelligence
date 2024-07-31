@@ -1,6 +1,6 @@
 # CP468 - Artificial Intelligence Group Project
 
-## Intructions on Downloading, Configuring, and Training Our Model + 3 Pre-Trained Models
+## Instructions on Downloading, Configuring, and Training Our Model + 3 Pre-Trained Models
 
 ### 1. Just Run the Imports:)
 - Since we already uploaded our ipython notebook for you all you have to do is run the imports and you will be able to run the 2 gradio interfaces and the opencv. Enjoy! 
