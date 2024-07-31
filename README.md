@@ -5,7 +5,7 @@
 ### 1. Just Run the Imports:)
 - Since we already uploaded our ipython notebook for you all you have to do is run the imports and you will be able to run the 2 gradio interfaces and the opencv. Enjoy! 
 
-### (To be able to run everything yourself, read the steps below!)
+### *(To be able to run everything yourself, read the steps below!)*
 
 ### 2. Download Dataset
 - Download the dataset from Kaggle, You need to be signed into Kaggle to download the dataset, so it is highly suggested to create an account before attempting to download it.
@@ -18,13 +18,15 @@
   ```sh
   !pip install tensorflow
   !pip install gradio
+  ```
 
 ### 4. Import Libraries and Prepare Data
 - Import any other necessary libraries.
 - Start by running our generators for validation and training data. After doing so, you should get an output that says:
-
+```sh
 Found 28907 images belonging to 7 classes.
 Found 7178 images belonging to 7 classes.
+```
 
 These are the images inside the train and test folders of the fer2013 file.
 
